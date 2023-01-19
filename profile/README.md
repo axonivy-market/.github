@@ -8,4 +8,10 @@ The Axon Ivy Market is from developers for developers 👩‍💻. Any kind of c
 is very welcome. Developing a small new feature 🏎️, filing an issue 📝, fxing a bug 🪲 or even
 [creating a completely new connector](https://github.com/axonivy-market/market/wiki) 🚀.
 
-Be part of the Axon Ivy Community and get involved!
+**Be part of the Axon Ivy Community and get involved!**
+
+Tools:
+- [product-template](https://github.com/axonivy-market/market-product) a template to boost the development of a new proudct
+- [market-monitor](https://axonivy-market.github.io/market-monitor/) helps to oversee the quality of market-products
+- [action-workflows](https://github.com/axonivy-market/github-workflows) ready to use pipelines to build and test your product
+- [update-scripts](https://github.com/axonivy-market/market-up2date-keeper) bulk updates for all products (e.g. migrate to next ivy LTS version)
