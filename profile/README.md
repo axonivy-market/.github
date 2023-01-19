@@ -8,7 +8,7 @@ The Axon Ivy Market is from developers for developers 👩‍💻. Any kind of c
 is very welcome. Developing a small new feature 🏎️, filing an issue 📝, fxing a bug 🪲 or even
 [creating a completely new connector](https://github.com/axonivy-market/market/wiki) 🚀.
 
-*Be part of the Axon Ivy Community and get involved!*
+**Be part of the Axon Ivy Community and get involved!**
 
 Tools:
 - [product-template](https://github.com/axonivy-market/market-product) a template to boost the development of a new proudct
