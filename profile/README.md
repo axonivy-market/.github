@@ -11,7 +11,7 @@ is very welcome. Developing a small new feature 🏎️, filing an issue 📝, f
 **Be part of the Axon Ivy Community and get involved!**
 
 Tools:
-- [product-template](https://github.com/axonivy-market/market-product) a template to boost the development of a new proudct
-- [market-monitor](https://axonivy-market.github.io/market-monitor/) helps to oversee the quality of market-products
+- [product-template](https://github.com/axonivy-market/market-product) a template for boosting the development of a new product
+- [market-monitor](https://axonivy-market.github.io/market-monitor/) monitoring the quality of market products 
 - [action-workflows](https://github.com/axonivy-market/github-workflows) ready to use pipelines to build and test your product
 - [update-scripts](https://github.com/axonivy-market/market-up2date-keeper) bulk updates for all products (e.g. migrate to next ivy LTS version)
