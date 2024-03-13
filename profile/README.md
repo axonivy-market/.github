@@ -6,7 +6,7 @@ We maintain independent repositories for all Axon Ivy Market products here.
 
 The Axon Ivy Market is by developers for developers 👩‍💻. Any kind of contribution is very welcome. The development of a small 
 new feature 🏎️, the submission of a problem 📝, the fixing of a bug 🪲 or 
-the [creating a completely new connector](https://github.com/axonivy-market/market/wiki) 🚀.
+the [creation of a completely new connector](https://github.com/axonivy-market/market/wiki) 🚀.
 
 **Be part of the Axon Ivy Community and get involved!**
 
