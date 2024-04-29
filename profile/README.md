@@ -1,8 +1,8 @@
 ## Hello Axon Ivy Market Visitor 👋
 
-The [Axon Ivy Market](https://market.axonivy.com) is the living ecosystem around the [Axon Ivy Platform](https://dev.axonivy.com).
-Whether it's simple examples, complex use cases or connectors for connecting third-party systems - you'll find it all here.
-We maintain independent repositories for all Axon Ivy Market products here.
+The [Axon Ivy Market](https://market.axonivy.com) is the dynamic ecosystem around the [Axon Ivy Platform](https://dev.axonivy.com).
+The Axon Ivy Market is the dynamic ecosystem around the Axon Ivy Platform. Whether simple examples, complex use cases or connectors 
+for integrating  third-party systems - you will find everything here. We offer independent repositories for all Axon Ivy Market products
 
 The Axon Ivy Market is by developers for developers 👩‍💻. Any kind of contribution is very welcome. The development of a small 
 new feature 🏎️, the submission of a problem 📝, the fixing of a bug 🪲 or 
