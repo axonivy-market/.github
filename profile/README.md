@@ -1,5 +1,7 @@
 ## Hello Axon Ivy Market Visitor 👋
 
+![Axon Ivy Banner - Mountain in Summer](https://github.com/axonivy-market/market/blob/master/.github/mountain_banner_summer.png)
+
 The [Axon Ivy Market](https://market.axonivy.com) is the dynamic ecosystem around the [Axon Ivy Platform](https://dev.axonivy.com).
 The Axon Ivy Market is the dynamic ecosystem around the Axon Ivy Platform. Whether simple examples, complex use cases or connectors 
 for integrating  third-party systems - you will find everything here. We offer independent repositories for all Axon Ivy Market products
